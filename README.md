@@ -1,7 +1,7 @@
 
 <h1 align="center"># RainAirlines</h1>
  <br/>
- <h1 align="center">C# ve SQL kullanarak yapılmıştır resimler ektedir.</h1>
+ <h1 align="center">C# ve SQL kullanarak yapılmıştır.</h1>
 
 
 
