@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAirlines", "RAirlines\RAirlines.csproj", "{0E830024-CE87-4362-89A6-5BC147310CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E830024-CE87-4362-89A6-5BC147310CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E830024-CE87-4362-89A6-5BC147310CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E830024-CE87-4362-89A6-5BC147310CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E830024-CE87-4362-89A6-5BC147310CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD847BF-7251-4593-9D1D-9BD48CFE28E2}
+	EndGlobalSection
+EndGlobal
