@@ -1,7 +1,9 @@
 
 <h1 align="center"># RainAirlines</h1>
  <br/>
- <h1 align="center">C# ve SQL kullanarak yapılmıştır.</h1>
+ <h4 align="center">C# ve SQL kullanarak yapılmıştır.</h4>
+ <p align="center">Kullanırsanız starlamayı ve forklamayı unutmayın :)</p>
+  <hr/>
 
 
 
