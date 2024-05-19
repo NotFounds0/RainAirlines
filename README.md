@@ -5,6 +5,8 @@
  <p align="center">Kullanırsanız starlamayı ve forklamayı unutmayın :)</p>
   <hr/>
 
+  sql üzerinden perm: 1 olursa yönetici yetkisine sahip olur 0 ise kullanıcıdır.
+
 
 
 ![Screenshot_11](https://github.com/NotFounds0/RainAirlines/assets/112336775/587327ea-3360-4671-9fbe-a0beabc35837)
